@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sp_map">
+        <item>Basic</item>
+        <item>Navi</item>
+        <item>Hybrid</item>
+        <item>Satellite</item>
+        <item>Terrain</item>
+    </string-array>
+</resources>
